@@ -14,7 +14,6 @@ public class Main {
         pedido.entregar();
         pedido.mostrarEstado();
         
-        // Intentar operación inválida
         pedido.cancelar();
     }
 }
